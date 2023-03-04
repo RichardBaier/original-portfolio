@@ -1,7 +1,7 @@
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Resume, AboutMe, Portfolio, Contact } from "./pages";
-import { Navbar } from "./components";
+import { Navbar, Footer } from "./components";
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
       <div className="flex-row justify-center align-center min-100-vh">
         <Routes>
           <Route 
-            path="/aboutme" 
+            path="/aboutme"
             element={<AboutMe />}
           />
           <Route 
@@ -27,6 +27,7 @@ function App() {
           />
         </Routes>
       </div>
+      <Footer />
     </Router>
   );
 }

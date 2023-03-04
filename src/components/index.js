@@ -1,4 +1,4 @@
 import Navbar from "./navbar/Navbar";
-import ProjectCard from "./projectCard/ProjectCard";
+import Footer from "./footer/Footer";
 
-export { Navbar, ProjectCard}
+export { Navbar, Footer }
