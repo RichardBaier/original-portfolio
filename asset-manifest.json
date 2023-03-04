@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/original-portfolio/static/css/main.8e06dfa8.css",
+    "main.js": "/original-portfolio/static/js/main.7bd85546.js",
+    "static/media/movielandpic.png": "/original-portfolio/static/media/movielandpic.5410a2a5685c7bcdc4d4.png",
+    "static/media/portfolio.png": "/original-portfolio/static/media/portfolio.187c72143a987b10a6fc.png",
+    "static/media/pokedex.png": "/original-portfolio/static/media/pokedex.1b1777aab9606c7c1b4b.png",
+    "static/media/pocketmon.png": "/original-portfolio/static/media/pocketmon.25c9fcd5f6056651bcac.png",
+    "static/media/profile.JPG": "/original-portfolio/static/media/profile.b70216347e1081e3fcd0.JPG",
+    "static/media/planner.png": "/original-portfolio/static/media/planner.998336d2bbf3bfc825d9.png",
+    "static/media/readme.png": "/original-portfolio/static/media/readme.30a0607b0064cd255a96.png",
+    "static/media/resume.pdf": "/original-portfolio/static/media/resume.5447c6824a36ec8740d9.pdf",
+    "index.html": "/original-portfolio/index.html",
+    "main.8e06dfa8.css.map": "/original-portfolio/static/css/main.8e06dfa8.css.map",
+    "main.7bd85546.js.map": "/original-portfolio/static/js/main.7bd85546.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e06dfa8.css",
+    "static/js/main.7bd85546.js"
+  ]
+}
