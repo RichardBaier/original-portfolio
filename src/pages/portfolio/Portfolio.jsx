@@ -1,5 +1,5 @@
 import React from 'react'
-import { MovieLand, Pocketmon, ProfPort, Pokedex, ReadmeGen, DailyPlanner } from "../../assets/images"
+import { MovieLand, Pocketmon, ProfPort, Pokedex, ReadmeGen, DunDrag } from "../../assets/images"
 import "./portfolio.css"
 
 const Portfolio = () => {
@@ -102,17 +102,17 @@ const Portfolio = () => {
         <div class="card">
           <div class="card-content">
             <div class="image">
-            <img src={DailyPlanner} alt="Logo" />
+            <img src={DunDrag} alt="Logo" />
             </div>
             <div class="name-skills">
-              <span class="name">Daily Planner</span>
-              <span class="skills">HTML, JS, CSS</span>
+              <span class="name">DunDrag</span>
+              <span class="skills">React, MongoDB, D&D API</span>
             </div>
             <div class="button">
-              <a href="https://richardbaier.github.io/daily-planner/" rel="noreferrer" target="_blank">
+              <a href="https://dun-drag.herokuapp.com/" rel="noreferrer" target="_blank">
                 <button class="deployed">Deployed</button>
               </a>
-              <a href="https://github.com/RichardBaier/daily-planner" rel="noreferrer" target="_blank">
+              <a href="https://github.com/RichardBaier/dundrag" rel="noreferrer" target="_blank">
                 <button class="repo">GitHub Repo</button>
               </a>
             </div>
